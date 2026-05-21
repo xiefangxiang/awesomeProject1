@@ -11,3 +11,4 @@ func test() {
 }
 
 type Func func(name string) string
+type Callback func(name string) string
